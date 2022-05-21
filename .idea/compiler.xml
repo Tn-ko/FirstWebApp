@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="L3.1" />
+        <module name="FirstWebApp" />
         <module name="BuzzCard" />
         <module name="BuzzCard — копия" />
       </profile>
@@ -16,6 +17,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="BuzzCard" options="-parameters" />
       <module name="BuzzCard — копия" options="-parameters" />
+      <module name="FirstWebApp" options="-parameters" />
       <module name="L3.1" options="-parameters" />
     </option>
   </component>
